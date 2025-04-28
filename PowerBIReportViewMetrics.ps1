@@ -12,7 +12,7 @@ $Config = @{
     Sink                       = "out"
     SinkSchema                 = "dbo"
 
-    AuditLogDays               = 30
+    AuditLogDays               = 90
     AuditLogBatchHours         = 24
 
     ApiGatewayUri              = "https://api.powerbi.com"
